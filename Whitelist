@@ -1,1 +1,6 @@
-return {OWNER = {Name = 'Mp3Alt', UID = 3129964272}, PREMIUM = {}, BASIC = {}}
+local Members = {
+OWNER = {Name = 'Mp3Alt', UID = 3129964272},
+PREMIUM = {},
+BASIC = {}
+}
+return Members
